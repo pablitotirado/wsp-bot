@@ -14,7 +14,6 @@ type Data = {
   paymentMethod: string;
   category: string;
 };
-
 enum Keys {
   Fecha = "Fecha",
   Monto = "Monto",
@@ -22,7 +21,6 @@ enum Keys {
   Pago = "Pago",
   Categoria = "Categoria",
 }
-
 const getData = (msg: Message): Data => {
   type Replaced = { column: string; value: string };
 
@@ -75,8 +73,6 @@ const getData = (msg: Message): Data => {
       return acc;
     }, {} as Data);
 };
-
-let variable = "sdfs";
 
 export const filterCommand = (msg: Message) => {
   if (msg.body === expense) {
