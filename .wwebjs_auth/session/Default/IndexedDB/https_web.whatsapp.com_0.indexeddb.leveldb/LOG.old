@@ -1,0 +1,6 @@
+2022/08/24-20:52:02.306 9703 Reusing MANIFEST /Users/pablotirado/workspace/personal/bot-wsp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/24-20:52:02.307 9703 Recovering log #47
+2022/08/24-20:52:02.362 9703 Reusing old log /Users/pablotirado/workspace/personal/bot-wsp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000047.log 
+2022/08/24-20:52:36.467 9703 Level-0 table #53: started
+2022/08/24-20:52:36.519 9703 Level-0 table #53: 1248277 bytes OK
+2022/08/24-20:52:36.557 9703 Delete type=0 #47

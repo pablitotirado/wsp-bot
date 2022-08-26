@@ -1,0 +1,11 @@
+2022/08/24-20:52:55.956 8f03 Reusing MANIFEST /Users/pablotirado/workspace/personal/bot-wsp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/24-20:52:55.956 8f03 Recovering log #52
+2022/08/24-20:52:55.956 8f03 Reusing old log /Users/pablotirado/workspace/personal/bot-wsp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000052.log 
+2022/08/24-20:52:57.211 14f03 Compacting 1@1 + 2@2 files
+2022/08/24-20:52:57.287 14f03 Generated table #55@1: 29194 keys, 2261456 bytes
+2022/08/24-20:52:57.344 14f03 Generated table #56@1: 41059 keys, 1532514 bytes
+2022/08/24-20:52:57.344 14f03 Compacted 1@1 + 2@2 files => 3793970 bytes
+2022/08/24-20:52:57.382 14f03 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/24-20:52:57.382 14f03 Delete type=2 #49
+2022/08/24-20:52:57.382 14f03 Delete type=2 #50
+2022/08/24-20:52:57.382 14f03 Delete type=2 #53
