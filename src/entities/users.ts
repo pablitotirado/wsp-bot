@@ -14,4 +14,4 @@ export enum Keys {
   Categoria = "Categoria",
 }
 
-export const allowedUsers = ["5492215854337@c.us", "5491127797642@c.us"];
+export const allowedUsers = [process.env.USER_ONE, process.env.USER_TWO];

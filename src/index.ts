@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { runBot } from "./bot";
 import { server } from "./server";
 
