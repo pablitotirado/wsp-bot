@@ -1,6 +1,5 @@
 import { Client, Message } from "whatsapp-web.js";
 import { db } from "../../../db";
-import { Data, Keys } from "../../../entities/users";
 import { processData } from "./processData";
 
 const expenseTrigger = "!gasto";
